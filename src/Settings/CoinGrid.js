@@ -9,6 +9,7 @@ export const CoinGridStyled = styled.div`
     grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
     grid-gap: 16px;
     margin-top: 40px; 
+    
 `
 
 function getLowerSectionCoins(coinList, filteredCoins){

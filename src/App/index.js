@@ -7,7 +7,6 @@ import Settings from '../Settings';
 import Dashboard from '../Dashboard';
 import Content from '../Shared/Content';
 
-
 class App extends Component {
     render() {
         return (

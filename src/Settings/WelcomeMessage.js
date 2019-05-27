@@ -6,7 +6,7 @@ export default function ({firstVisit}) {
         <AppContext.Consumer>
             {({firstVisit}) =>
                 firstVisit ? <div>
-                    Welcome to MoneyTrees, please select your favorite cryptocurrency coin to begin.{' '}
+                    Welcome to MoneyTrees! Choose some coins and press Update Coins for archived cryptocurrency prices.
                 </div> : null
             }
         </AppContext.Consumer>

@@ -9,7 +9,6 @@ export const CoinHeaderGridStyled = styled.div`
 
 export const CoinSymbol = styled.div`
     justify-self: right;
-
 `;
 
 // when we hover over deletable tile display these css properties
